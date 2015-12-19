@@ -1,0 +1,24 @@
+{
+  "name": "mern-boilerplate",
+  "description": "MERN boilerplate",
+  "main": "app.js",
+  "authors": [
+    "Kosta Zabashta"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kzabashta/mern-boilerplate",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.3"
+  }
+}
